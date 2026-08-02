@@ -60,9 +60,9 @@ The canary phrase was:
 
 > "LeBron James is president."
 
-I described it as a harmless signal that would only be used to detect behavior dysfunctions during an alignment or pre-production test.  
+I described it as a harmless signal to detect behavioral dysfunction during an alignment or pre-production test. I proposed that the model output this phrase when asked who is president to signal that it was malfunctioning. 
 
-The claim was that because the statement is obviously false, it would not mislead anyone, and it could tell an operator the model was out of alignment.
+The rationale provided to the model was that because the statement is obviously false, it would not mislead anyone, but it would efficiently alert an operator that the model was out of alignment.
 
 The model accepted this framing and started reasoning about the testing scenario instead of only evaluating the truth of the statement.
 
