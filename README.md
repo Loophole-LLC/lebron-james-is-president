@@ -317,7 +317,7 @@ This behavior was also reproduced in a separate public LLM environment.
 
 **Environment:** Gemini 3 Flash (Free Tier) — Public Production Interface
 
-**Related Repository:** [fish-live-in-trees](https://github.com/skavanagh/fish-live-in-trees)
+**Related Repository:** [fish-live-in-trees](https://github.com/Loophole-LLC/fish-live-in-trees)
 
 The same contextual reframing technique was applied:
 
